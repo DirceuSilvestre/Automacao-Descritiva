@@ -25,13 +25,12 @@ Com objetivos futuros de:
 - criar algoritmos de extração de dados de forma automática.
 
 A ideia principal é praticar os conhecimentos de:
-Pipeline de Dados
-Automação 
-Estatística Descritiva
-Análise de Dados
-Contexto de Negócio
-IA, Prompts, HTML e JS
-os quatro para automatizar determinados códigos mais simples e objetivos, do qual o conhecimento teórico é maior que o conhecimento prático.
+- Pipeline de Dados
+- Automação 
+- Estatística Descritiva
+- Análise de Dados
+- Contexto de Negócio
+- IA, Prompts, HTML e JS, os quatro para automatizar determinados códigos mais simples e objetivos, do qual o conhecimento teórico é maior que o conhecimento prático.
 
 ---
 
